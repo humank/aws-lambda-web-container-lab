@@ -32,17 +32,15 @@ AWS CLI V2 installation
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
 sudo ./aws/install
-
-after the installation completed, close the terminal and restart a new one, then check the AWS CLI version by : 
+```
+after the installation completed, close the terminal and restart a new one, then check the AWS CLI version by :
 
 aws --version
-
-```
-
 You should get the result :
 ```
 aws-cli/2.11.15 Python/3.11.3 Linux/4.14.311-233.529.amzn2.x86_64 exe/x86_64.amzn.2 prompt/off
 ```
+
 Check AWS SAM-CLI version
 
 ```
