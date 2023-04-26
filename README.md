@@ -40,15 +40,12 @@ aws --version
 ```
 
 You should get the result :
-
-TeamRole:~/environment $ aws —version
+```
 aws-cli/2.11.15 Python/3.11.3 Linux/4.14.311-233.529.amzn2.x86_64 exe/x86_64.amzn.2 prompt/off
-TeamRole:~/environment $
-
-
 ```
 Check AWS SAM-CLI version
 
+```
 $ sam --version
 
 ```
