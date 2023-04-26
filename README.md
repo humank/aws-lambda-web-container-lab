@@ -117,13 +117,17 @@ sam deploy --guided
 ```
 
 ![](./images/4-1.png)
+
 System detected that you don’t have the ECR repository created, suggest to create one to persist the images.
 
 ![](./images/4-2.png)
+
 System generated the necessary resources definition code, and request your approval to create
 
 ![](./images/4-3.png)
+
 Deployed result :
+
 ![](./images/4-4.png)
 
 ### 5—Test the deployed application
